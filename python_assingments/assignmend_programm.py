@@ -1,3 +1,4 @@
+print("this is second program")
 print("this is calculation program")
 x=int(input("enter the value for x"))
 y=int(input("enter the value for y"))
